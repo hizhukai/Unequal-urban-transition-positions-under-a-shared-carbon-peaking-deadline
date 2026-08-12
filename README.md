@@ -1,6 +1,6 @@
 # Unequal Urban Transition Positions under a Shared Carbon-Peaking Deadline
 
-This repository contains analysis code, aggregated result tables, and input-data documentation associated with the manuscript submitted to *Environmental Science & Technology*.
+This repository contains analysis code, aggregated result tables, and input-data documentation associated with the study.
 
 Repository  
 https://github.com/hizhukai/Unequal-urban-transition-positions-under-a-shared-carbon-peaking-deadline
